@@ -6,20 +6,20 @@ Listing every issues encountered in the lighthouse report to enhance the perform
 
 ### Name and labels
 
-  - [X] Adding a title
-  - [X] Filling the alts descriptions of the imgs
-  - [] Labelling form inputs 
-  - [] Adding visible name on links 
+- [X] Adding a title
+- [X] Filling the alts descriptions of the imgs
+- [] Labelling form inputs 
+- [] Adding visible name on links 
 
 ---
 
 ### Localization and internationalization 
 
-  - [X] Putting a language attribute for the HTML tag
+- [X] Putting a language attribute for the HTML tag
 
 ### Navigation 
 
-  - [] Header elements classified by descending order
+- [] Header elements classified by descending order
 
 --- 
 
