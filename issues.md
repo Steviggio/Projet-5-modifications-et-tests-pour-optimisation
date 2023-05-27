@@ -8,8 +8,8 @@ Listing every issues encountered in the lighthouse report to enhance the perform
 
 - [X] Adding a title
 - [X] Filling the alts descriptions of the imgs
-- [] Labelling form inputs 
-- [] Adding visible name on links 
+- [X] Labelling form inputs 
+- [ ] Adding visible name on links 
 
 ---
 
@@ -19,7 +19,7 @@ Listing every issues encountered in the lighthouse report to enhance the perform
 
 ### Navigation 
 
-- [] Header elements classified by descending order
+- [X] Header elements classified by ascending order 
 
 --- 
 
@@ -32,3 +32,15 @@ Listing every issues encountered in the lighthouse report to enhance the perform
 - [X] Alt attributes missing for some imgs*  
 
 * <mark><bold> Elements annoted with '*' are appearing in an other category </bold></mark>
+
+## General issues from mentor guide : 
+
+- [ ] optimisation of images  
+- [ ] meta description between 50 and 160 letters  
+- [ ] adding a Rich Snippet for the localization of the photograph  
+- [ ] metas for socials like Twitter Cards and OpenGraph  
+
+- [ ] deleting the jQuery and remplacing it with a JS galery  
+- [ ] minifying JS and CSS codes  
+- [ ] erasing unnecessary code in joined files(Bootstrap and Co)  
+- [ ] Key words related to the activity and position added 

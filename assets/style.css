@@ -40,6 +40,7 @@ body {
 
 .social-link img {
 	width: 20px;
+	height: 20px; 
 }
 
 #about {
@@ -126,6 +127,12 @@ body {
 	object-fit: cover;
 	padding: .5em;
 }
+
+.gallery-item img {
+	width: 364px;
+	height: 364px;
+}
+
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
