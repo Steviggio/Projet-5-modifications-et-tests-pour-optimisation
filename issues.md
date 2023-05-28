@@ -35,7 +35,7 @@ Listing every issues encountered in the lighthouse report to enhance the perform
 
 ## General issues from mentor guide : 
 
-- [ ] optimisation of images  
+- [X] optimisation of images  
 - [ ] meta description between 50 and 160 letters  
 - [ ] adding a Rich Snippet for the localization of the photograph  
 - [ ] metas for socials like Twitter Cards and OpenGraph  
