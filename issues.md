@@ -40,7 +40,7 @@ Listing every issues encountered in the lighthouse report to enhance the perform
 - [ ] adding a Rich Snippet for the localization of the photograph  
 - [ ] metas for socials like Twitter Cards and OpenGraph  
 
-- [ ] deleting the jQuery and remplacing it with a JS galery  
-- [ ] minifying JS and CSS codes  
-- [ ] erasing unnecessary code in joined files(Bootstrap and Co)  
+- [X] Correct the jQuery code to make it work
+- [X] minifying JS and CSS codes  
+- [X] erasing unnecessary code in joined files(Bootstrap and Co)  
 - [ ] Key words related to the activity and position added 
