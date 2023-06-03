@@ -101,10 +101,15 @@ body {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
-	background-color: #45411C;
+	color: #000;
+	background-color: #BEB45A;
 	border-radius:0 ;
 }
+
+.nav-link.active-tag {
+	background-color: #BEB45A;
+}
+
 .nav-pills .nav-link {
 	color: #000
 }
@@ -258,6 +263,15 @@ input[type="submit"] {
 	#about-me h6, #about-me p {
 		width: 100%;
 	}
+	.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+		color: #000;
+		background-color: #BEB45A;
+		border-radius:0 ;
+	}
+	
+	.nav-link .active-tag {
+		background-color: #BEB45A;
+	}
 }
 
 @media all and (max-width: 1000px) {
@@ -317,6 +331,15 @@ input[type="submit"] {
 		right: 0;
 		z-index: -1;
 	}
+	.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+		color: #000;
+		background-color: #BEB45A;
+		border-radius:0 ;
+	}
+	
+	.active-tag {
+		background-color: #BEB45A;
+	}
 }
 
 @media all and (max-width: 650px) {
@@ -352,5 +375,6 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+	
 }
 
